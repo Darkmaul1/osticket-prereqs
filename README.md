@@ -35,7 +35,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <<blockquote class="imgur-embed-pub" lang="en" data-id="a/WhducRn"  ><a href="//imgur.com/a/WhducRn"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Install PHP Manager for IIS. Agree to the License Agreement to move forward. Click on the Next button. Please wait for the Files to be installed. Click the Close button to Exit,once the Files have been downloaded.
+
+  <blockquote class="imgur-embed-pub" lang="en" data-id="a/dViEFAn" data-context="false" ><a href="//imgur.com/a/dViEFAn"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </p>
 <br />
 
